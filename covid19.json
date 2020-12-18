@@ -1,0 +1,32 @@
+[
+    {
+        "accExamCnt": "268212",
+        "decideCnt": "8162",
+        "stateDt": "20200315"
+    },
+    {
+        "accExamCnt": "261335",
+        "decideCnt": "8086",
+        "stateDt": "20200314"
+    },
+    {
+        "accExamCnt": "248647",
+        "decideCnt": "7979",
+        "stateDt": "20200313"
+    },
+    {
+        "accExamCnt": "234998",
+        "decideCnt": "7869",
+        "stateDt": "20200312"
+    },
+    {
+        "accExamCnt": "222395",
+        "decideCnt": "7755",
+        "stateDt": "20200311"
+    },
+    {
+        "accExamCnt": "210144",
+        "decideCnt": "7513",
+        "stateDt": "20200310"
+    }
+]
