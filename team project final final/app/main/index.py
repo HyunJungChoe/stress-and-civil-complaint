@@ -29,7 +29,7 @@ def index():
       #testData = 'testData array'
       x= request.args.get('gun')
       y= request.args.get('weather')
-      model = pickle.load(open('/pyclass/team project/gunsu.pkl', 'rb'))
+      model = pickle.load(open('gunsu.pkl', 'rb'))
       #result = {'x' : x, 'y' : y }
       #result = model.predict([[int(x),int(y)]])
       c = model.predict([[int(x),int(y)]])
